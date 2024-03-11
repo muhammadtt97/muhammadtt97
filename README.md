@@ -1,6 +1,17 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+<div>
+  <h1>About Me:</h1>
+  <p>I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.</p>
+  - :telescope: I'm a passionate software developer with a relentless drive for excellence.
+
+  - :seedling: As an enthusiastic learner, I'm constantly seeking new challenges and opportunities to expand my skill set.
+
+  - :zap: I'm dedicated to continuous improvement, both personally and professionally, always striving to refine my craft and stay ahead of the curve.
+
+  - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-muhammadtt97-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+</div>
 
 <div id="badges" align="center">
   <h1>Socials 🌐</h1>
@@ -13,11 +24,14 @@
   <a href="https://twitter.com/alameen_toro">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a href="https://muhammadtt97@gmail.com/">
+    <img src="https://img.shields.io/badge/Gmail-yellow?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
 </div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 </div>
-<h1>
+<h1 align="center">
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
