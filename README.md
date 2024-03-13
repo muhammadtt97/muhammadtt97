@@ -32,7 +32,7 @@
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 </div>
 <h1 align="center">
-  hey there
+  Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 ---
@@ -59,14 +59,22 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB"  alt="MongoDB" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="60" height="60"/>&nbsp;
-  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="Wordpress" alt="Wordpress" width="60" height="60"/>&nbsp;
 </div>
 
 ---
 
 ### :fire: My Github Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=muhammadtt97&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=880)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadtt97&layout=compact&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=880 )](https://github.com/anuraghazra/github-readme-stats)
+![muhammadtt97's Stats](https://github-readme-stats.vercel.app/api?username=muhammadtt97&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+![muhammadtt97's Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhammadtt97&theme=dracula&hide_border=true)
+![muhammadtt97's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadtt97&theme=dracula&show_icons=true&hide_border=true&layout=compact)
+
+---
+
+### :trophy: My Github Trophies:
+[![trophy](https://github-profile-trophy.vercel.app/?username=muhammadtt97&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+### :top: Top Contribution
+![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=muhammadtt97&hide=B&theme=dracula&contributions=true)
 
 
 
